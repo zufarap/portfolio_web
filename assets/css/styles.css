@@ -104,6 +104,9 @@ img {
   margin-right: var(--mb-2);
 }
 
+.l-main {
+  background-color:linen;
+}
 .l-header {
   width: 100%;
   position: fixed;
